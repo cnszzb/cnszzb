@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnszzb
 - 👀 I’m interested in mcu, fpga.
-- 🌱 I’m currently learning verilog and c.
+- 🌱 I’m currently learning c, verilog.
 
 
 <!---

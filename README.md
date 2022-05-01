@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cnszzb
-- 👀 I’m interested in verilog and c
-- 🌱 I’m currently learning verilog and c
-- 💞️ I’m not looking to collaborate on nothing
-- 📫 How to reach me ...
+- 👀 I’m interested in mcu, fpga.
+- 🌱 I’m currently learning verilog and c.
+
 
 <!---
 cnszzb/cnszzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
